@@ -1,0 +1,39 @@
+#demo{
+    color: aqua;
+    background-color: black;
+}
+
+.cl1{
+    color: blue;
+    background-color:darkorange;
+}
+
+.cl2{
+    background-color:aqua;
+    font-size: 25px;
+}
+
+.cl3{
+    background-color: dimgrey;
+}
+
+#demo1{
+    color: azure;
+    background-color: blueviolet;
+    font-size: 40px;
+} 
+
+.cl4{
+    color: coral;
+    background-color: crimson;
+}
+
+.cl5{
+    font-size: 12px;
+    background-color: lawngreen;
+    font-size: larger;
+}
+
+.cl6{
+    background-color: darkslateblue;
+}
